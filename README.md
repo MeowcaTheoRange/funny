@@ -5,5 +5,4 @@ Install like you do a normal mod, just drag the two folders into assets and clic
 
 You may have to rummage through and fix some .json positions
 
-
 100% Cross-platform
